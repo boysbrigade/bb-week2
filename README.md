@@ -9,3 +9,8 @@ Create an index.html file and push it to github. The index.html file should cont
 + At least one heading
 + At least one paragraph
 + At least one link
+
+
+## Optional PenTask 1
+This task involves finding a password and connecting to a server.
+This task will be on a separate git repo. Check the discord for the link.
